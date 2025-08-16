@@ -6,7 +6,7 @@ export const posts = [
     date: "2025-07-01",
     author: "Team AppCo",
     cover:
-      "https://images.unsplash.com/photo-1525186402429-b4ff38bedbec?q=80&w=1200",
+      "https://cdn.pixabay.com/photo/2015/05/12/09/13/social-media-763731_1280.jpg",
   },
   {
     slug: "how-we-built-the-app",
